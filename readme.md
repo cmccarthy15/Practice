@@ -5,4 +5,5 @@ I might also start dabbling in Java. We shall see
 
 Good luck to all my fellow job hunters out there!
 
-- Caryn
+
+~ Caryn
